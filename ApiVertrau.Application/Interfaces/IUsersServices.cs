@@ -1,6 +1,6 @@
 using ApiVertrau.Application.DTOs;
 
-namespace ApiVertrau.Application.Services;
+namespace ApiVertrau.Application.Interfaces;
 
 public interface IUsersServices
 {
