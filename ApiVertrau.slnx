@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ApiVertrau.API/ApiVertrau.API.csproj" />
+  <Project Path="ApiVertrau.Application/ApiVertrau.Application.csproj" />
+  <Project Path="ApiVertrau.Domain/ApiVertrau.Domain.csproj" />
+  <Project Path="ApiVertrau.Infrastructure/ApiVertrau.Infrastructure.csproj" />
+  <Project Path="ApiVertrau.Tests/ApiVertrau.Tests.csproj" />
+  <Project Path="ApiVertrau/ApiVertrau.csproj" />
+</Solution>
