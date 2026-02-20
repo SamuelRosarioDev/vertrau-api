@@ -1,5 +1,6 @@
 using System.Net.Mime;
 using ApiVertrau.Application.DTOs;
+using ApiVertrau.Application.Interfaces;
 using ApiVertrau.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 
