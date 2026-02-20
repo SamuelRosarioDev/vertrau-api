@@ -23,7 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ApiVertrau\ApiVertrau.csproj" />
     <ProjectReference Include="..\ApiVertrau.Application\ApiVertrau.Application.csproj" />
     <ProjectReference Include="..\ApiVertrau.Domain\ApiVertrau.Domain.csproj" />
   </ItemGroup>
