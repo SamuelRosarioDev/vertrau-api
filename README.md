@@ -188,12 +188,12 @@ ApiVertrau.Application/
 ├── DTOs/
 │   └── UserDTO.cs                     # CreateUsuarioDTO, UsuarioResponseDTO, etc.
 ├── Interfaces/
-│   └── IUserRepository.cs             # Contrato do repositório
+│   ├── IUserRepository.cs             # Contrato do repositório
+│   └── IUsersServices.cs             # Contrato do serviço
 ├── Mappers/
 │   └── UserMapper.cs                  # Conversão entre Domain e DTO
 └── Services/
-    ├── IUsersServices.cs              # Interface do serviço
-    └── UserService.cs                 # Regras de negócio
+    └── UserService.cs                 # Implementação das regras de negócio
 
 ApiVertrau.Infrastructure/
 ├── Migrations/
